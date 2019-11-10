@@ -1,2 +1,2 @@
-## Sistema de Vendaspara sapataria.
+## Sistema de Vendas para sapataria.
 podendo ser alterado para outros fins.
