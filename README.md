@@ -66,6 +66,6 @@ Faz o recebimento de contas.
 ![](imagens/9.1.png)
 
 
-###### OBS
+###### OBS:
 ##### O sistema foi desenvolvido tendo o apoio das vídeos aulas do canal "Simplesmente Java"
 segue o link: https://www.youtube.com/playlist?list=PLt2CbMyJxu8iQL67Am38O1j5wKLf0AIRZ 
